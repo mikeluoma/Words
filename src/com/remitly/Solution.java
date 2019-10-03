@@ -19,8 +19,7 @@ public class Solution {
         this.dictionary = dictionary;
     }
 
-    // Please rename this function to something that makes sense!
-    public boolean renameThisMethodForYourAnswer(String input) {
+    public boolean isStringComposedOfWords(String input) {
         throw new RuntimeException("Not implemented");
     }
 }
